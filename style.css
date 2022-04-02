@@ -447,7 +447,7 @@ h6 {
 }
 .testimonials {
 	background:url("images/lenoirsunflower.jpg") no-repeat 0% 0% / 120% auto;
-	width:100%;
+	min-width:100%;
 }
 .testimonials-overlay {
 	background: rgba(0,0,0,.8);
