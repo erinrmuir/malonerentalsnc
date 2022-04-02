@@ -446,12 +446,12 @@ h6 {
 	background-color: #1c1c1c;
 }
 .testimonials {
-	background:url("images/lenoirsunflower.jpg") no-repeat 0% 0% / 100% auto;
+	background:url("images/lenoirsunflower.jpg") no-repeat 0% 0% / 0% 0%;
+	background-color: #333333;
 	width:100%;
-	height:auto;
 }
 .testimonials-overlay {
-	background: rgba(0,0,0,0.8);
+	background: rgba(41,41,41,1);
 }
 .testimonials .testimonial-item p {
 	max-width: 700px;
